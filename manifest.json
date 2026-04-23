@@ -1,7 +1,7 @@
 {
   "name": "Dino Pro Max",
   "short_name": "Dino",
-  "start_url": "./index.html",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#1a0f2e",
   "theme_color": "#1a0f2e",
